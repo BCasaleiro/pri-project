@@ -1,4 +1,5 @@
 from nltk.corpus import stopwords
+import operator
 
 class graph(object):
 
@@ -118,16 +119,43 @@ def generate_graph(text, mn, mx):
         for i, n in enumerate(nodes):
             for index in range(i + 1, len(nodes)):
                 e = edge (i, index)
+                e1 = edge (index, i)
                 n.edges.append( e )
-                nodes[index].edges.append( e )
+                nodes[index].edges.append( e1 )
 
     return g
 
+def page_rank(d, n, g, m):
+    print 'iteration 0'
+    pr = [[(float(1) / n) for x in range(n)] for y in range(m)]
+    pr_dict = dict ()
+
+    for i in range (1, m):
+        print 'iteration {}'.format(i)
+        for c_index, c in enumerate(g.nodes):
+            s = 0
+
+            for e in c.edges:
+                s += float(pr[i - 1][e.target]) / len(g.nodes[e.source].edges)
+
+            pr[i][c_index] = ( (float(d) / n) + (1 - d) ) * s
+
+    for i, p in enumerate(pr[m - 1]):
+        pr_dict[g.nodes[i].ngram] = p
+
+    top_ranked = sorted(pr_dict.items(), key=operator.itemgetter(1))
+    l_t = len(top_ranked) - 1
+
+    for i in range(l_t - 5, l_t):
+        print '{} {}'.format(top_ranked[i][0], top_ranked[i][1])
+
 def main():
     file_content = read_file('document.txt')
+    print 'read file'
     g = generate_graph(file_content, 1, 3)
-    for n in g.nodes:
-        print '[{}]\t{}'.format(len(n.edges), n.ngram)
+    print 'generated graph'
+    page_rank(0.15, len(g.nodes), g, 50)
+    print 'page rank'
 
 if __name__ == '__main__':
     main()
