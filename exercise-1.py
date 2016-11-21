@@ -126,12 +126,10 @@ def generate_graph(text, mn, mx):
     return g
 
 def page_rank(d, n, g, m):
-    print 'iteration 0'
     pr = [[(float(1) / n) for x in range(n)] for y in range(m)]
     pr_dict = dict ()
 
     for i in range (1, m):
-        print 'iteration {}'.format(i)
         for c_index, c in enumerate(g.nodes):
             s = 0
 
@@ -151,11 +149,8 @@ def page_rank(d, n, g, m):
 
 def main():
     file_content = read_file('document.txt')
-    print 'read file'
     g = generate_graph(file_content, 1, 3)
-    print 'generated graph'
     page_rank(0.15, len(g.nodes), g, 50)
-    print 'page rank'
 
 if __name__ == '__main__':
     main()
