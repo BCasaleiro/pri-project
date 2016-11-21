@@ -25,6 +25,12 @@ def read_file(path):
 
     return content
 
+def edge_repeated(n, e):
+    for ed in n.edges:
+        if e == ed.target:
+            return True
+    return False
+
 def generate_graph(text, mn, mx):
     text = text.lower()
     sentences = text.split('.')
@@ -119,9 +125,12 @@ def generate_graph(text, mn, mx):
         for i, n in enumerate(nodes):
             for index in range(i + 1, len(nodes)):
                 e = edge (i, index)
+                if not edge_repeated(n, index):
+                    n.edges.append( e )
                 e1 = edge (index, i)
-                n.edges.append( e )
-                nodes[index].edges.append( e1 )
+                if not edge_repeated(nodes[index], i):
+                    nodes[index].edges.append( e1 )
+
 
     return g
 
