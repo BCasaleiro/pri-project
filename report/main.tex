@@ -33,12 +33,12 @@
 \end{titlepage}
 
 \section{An approach based on graph ranking}
-No primeiro exercicio foi implementado o algoritmo pedido de forma muito simples usando apenas a
+No primeiro exercício foi implementado o algoritmo pedido de forma muito simples usando apenas a
 biblioteca \href{http://nltk.org/}{nltk} por forma a fazer download das stopwords.
 
-O algorimo começa por ler o ficheiro desejado, gerando em seguida um grafo onde cada nó corresponde a
+O algoritmo começa por ler o ficheiro desejado, gerando em seguida um grafo onde cada nó corresponde a
 um n-grama com 1 \textless= n \textless= 3, ignorando as stopwords,  e as arestas entre estes representam
-a co-ocurrência na mesma frase, sendo assim não direcionais.
+a co-ocorrência na mesma frase, sendo assim não direccionados.
 
 O grafo gerado é então usado para calcular o ranking de acordo com o algoritmo page rank num processo
 iterativo com 50 iterações.
@@ -58,17 +58,17 @@ Por fim foi então aplicado o algoritmo ao ficheiro '\textit{document.txt}' send
 \end{table}
 
 \section{Improving the graph-ranking method}
-O exercicio 2 consistiu num upgrade ao exercicio 1, introduzindo o valor Prior a cada nó e atribuir um peso a
+O exercicio 2 consistiu num upgrade ao exercicio 1, atribuindo o valor Prior a cada nó e atribuir um peso a
 cada aresta.
 
-Foram assim implementados como possiveis Prior o \textbf{número de ocurrências}, \textbf{posição na texto} e
-\textbf{tf-idf score} do n-grama, bem como para peso das arestas o \textbf{número de ocurrências} da co-occorência
+Foram assim implementados como possiveis Prior o \textbf{número de ocorrências}, \textbf{posição na texto} e
+\textbf{tf-idf score} do n-grama, bem como para peso das arestas o \textbf{número de ocorrências} da co-ocorrência
 de dois n-gramas.
 
-Após vários testes efetuados foi claro que para nós que a variação com melhores resultados foi usando \textbf{tf-idf} como Prior
-e o \textbf{número de ocurrências} da co-occorência de dois n-gramas como peso das arestas. Sendo com estes valores calculados
+Após vários testes efetuados foi claro para nós que a variação com melhores resultados foi usando \textbf{tf-idf} como Prior
+e o \textbf{número de ocorrências} da co-ocorrência de dois n-gramas como peso das arestas. Sendo com estes valores calculados
 os resultados apresentados. Foi também necessário reescrever o código por forma a melhorar a performance, reduzindo significativamente
-o tempo de execução. No entanto, mesmo assim por forma a aplicar o algoritmo ao dataset apresentado foram necessárias 67 horas.
+o tempo de execução. No entanto, mesmo assim, de modo a aplicar o algoritmo ao dataset apresentado foram necessárias 67 horas.
 
 Aplicando ambos os exercicios ao dataset escolhido, que se encontra em anexo, obteve-se uma precisão média de \textbf{0.0066667} para o
 exercicio 1 e \textbf{0,1416667} para o exercicio 2. Provando assim uma melhoria significativa nos resultados.
@@ -84,7 +84,7 @@ palavra do n-grama sugerido nos ficheiros key.
 O algoritmo que optamos por implementar para realizar este exercício foi o Perceptrão.
 
 De modo a comparar a solução desenvolvida neste exercício com a desenvolvida no exercicio 2
-foi usado como  ficheiro de teste o mesmo dataset, usando outros dos datasets
+foi usado como  ficheiro de teste o mesmo dataset que no exercicio 2, usando outros dos datasets
 \footnote{ \href{https://github.com/zelandiya/keyword-extraction-datasets}{https://github.com/zelandiya/keyword-extraction-datasets} }
 para treinar o algoritmo.
 
@@ -118,7 +118,7 @@ como valor Prior ao invés do tf-idf score desse mesmo n-grama.
 O programa começa por ler o ficheiro XML/RSS e dar parse de todos os items e em seguida aplicar o algoritmo implementado
 no exercicio 2, sendo o resultado impresso no ficheiro '\textit{index.html}'.
 
-Por forma a tornar visualização dos dados mais apelativa foi utilizado a framework \href{http://getbootstrap.com/}{Bootstrap}
+Por forma a tornar visualização dos dados mais apelativa foi utilizada a framework \href{http://getbootstrap.com/}{Bootstrap}
 e as tabelas fornecidas pelo mesmo.
 
 Encontra-se em anexo um ficheiro '\textit{index.html}' gerado pela nossa implementação a titulo de exemplo.
