@@ -130,3 +130,39 @@
 [PRECISION] 0.0
 [RECALL] 0.0
 [F1-SCORE] 0
+
+
+[RESULTS] dataset/txt/at2050web.txt
+['developing', 'world', 'consumption', 'food', 'countries']
+['agriculture', 'agricultural situation', 'forecasting', 'trends', 'food production', 'agricultural products', 'food consumption', 'malnutrition', 'food crops', 'livestock', 'trade', 'imports', 'exports', 'human population', 'developing countries', 'world', 'statistical data', '']
+[PRECISION] 0.2
+[RECALL] 0.0555555555556
+[F1-SCORE] 0.131578947368
+
+[RESULTS] dataset/txt/birdpre.txt
+['devices', 'bird', 'fax', '800', 'birds']
+['predatory birds', 'noxious birds', 'bird control', 'aquaculture', 'fishery production', 'control methods', 'fish culture', 'damage', 'fencing', 'electrical installations', 'noise', 'north america', '']
+[PRECISION] 0.0
+[RECALL] 0.0
+[F1-SCORE] 0
+
+[RESULTS] dataset/txt/cleveland02_ecosystems.txt
+['carbon', 'co2', 'tropical', 'microbial', 'soil']
+['tropical soils', 'phosphorus', 'soil microorganisms', 'growth', 'degradation', 'soil biology', 'ecosystems', 'cycling', 'carbon', 'carbon cycle', 'nutrients', 'plant soil relations', 'soil chemicophysical properties', 'tropical rain forests', 'analytical methods', 'costa rica', '']
+[PRECISION] 0.2
+[RECALL] 0.0588235294118
+[F1-SCORE] 0.135135135135
+
+[RESULTS] dataset/txt/ecology_letters_2004.txt
+['genetic diversity', 'genetic', 'arthropod', 'species', 'diversity']
+['genetic variation', 'plant genetic resources', 'resource conservation', 'salicaceae', 'arthropoda', 'biodiversity', 'plant animal relations', 'animal ecology', 'dominant species', 'species', 'ecosystems', 'interspecific hybridization', 'populus', 'western states (usa)', '']
+[PRECISION] 0.2
+[RECALL] 0.0666666666667
+[F1-SCORE] 0.142857142857
+
+[RESULTS] dataset/txt/hoagland_mre_2003.txt
+['wild', 'fish', 'fishing', 'fishery', 'aquaculture']
+['aquaculture', 'marine fisheries', 'economic competition', 'impact assessment', 'marine areas', 'carrying capacity', 'fishery resources', 'fishery production', 'fishery management', 'production data', 'prices', 'cost benefit analysis', 'simulation models', '']
+[PRECISION] 0.2
+[RECALL] 0.0714285714286
+[F1-SCORE] 0.147058823529

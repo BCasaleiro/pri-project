@@ -70,11 +70,15 @@ e o \textbf{número de ocurrências} da co-occorência de dois n-gramas como pes
 os resultados apresentados. Foi também necessário reescrever o código por forma a melhorar a performance, reduzindo significativamente
 o tempo de execução. No entanto, mesmo assim por forma a aplicar o algoritmo ao dataset apresentado foram necessárias 67 horas.
 
-Aplicando ambos os exercicios ao dataset escolhido, que se encontra em anexo, obteve-se uma precisão média de \textbf{x} para o
-exercicio 1 e \textbf{y} para o exercicio 2. Provando assim uma melhoria significativa nos resultados.                                  %TODO: mudar valores
+Aplicando ambos os exercicios ao dataset escolhido, que se encontra em anexo, obteve-se uma precisão média de \textbf{0.0066667} para o
+exercicio 1 e \textbf{0,1416667} para o exercicio 2. Provando assim uma melhoria significativa nos resultados.
 
 Encontram-se em anexo os ficheiros '\textit{results-1.txt}' e '\textit{results-2.txt}' com o output resultante da análise do dataset
-usando, respectivamente, o exercicio 1 e 2.
+usando, respectivamente, o exercicio 1 e 2, pois apesar da precisão média ser um indicador da eficácia destes algoritmos, a nosso ver
+não é um bom identificador pois existem casos em que os algoritmos implementados escolhem bons ngramas ou, por exemplo, apenas uma
+palavra do n-grama sugerido nos ficheiros key.
+
+\newpage
 
 \section{A supervised learning-to-rank approach}
 O algoritmo que optamos por implementar para realizar este exercício foi o Perceptrão.

@@ -1,5 +1,211 @@
-gram dry gland 2.4984416512e-07
-rat parotid gland 2.49844199144e-07
-milliliters perfused 2.498442989e-07
-quantity saliva 2.498442989e-07
-perfused gram dry 2.50039652151e-07
+[RESULTS] dataset/txt/a0011e00.txt
+['director-general animal', 'director asia', 'standards potential', 'systems corporation', 'eu fao']
+['livestock', 'animal products', 'food chains', 'food safety', 'standards', 'risk analysis', 'phytosanitary measures', 'domestic markets', 'consumers', 'rural population', 'poverty', 'developing countries', '']
+[PRECISION] 0.0
+[RECALL] 0.0
+[F1-SCORE] 0
+
+[RESULTS] dataset/txt/a0126e00.txt
+['fish stocks western', 'stocks western', 'associated', 'navy;', 'australian navy;']
+['fisheries', 'fishing rights', 'regulations', 'legislation', 'illegal practices', 'national planning', 'fishery policies', 'fishery resources', 'resource conservation', 'pacific islands', '']
+[PRECISION] 0.0
+[RECALL] 0.0
+[F1-SCORE] 0
+
+[RESULTS] dataset/txt/a0184e00.txt
+['3500', 'fisheries management objectives', 'management objectives', 'fisheries management', 'monitoring fisheries management']
+['strombus gigas', 'endangered species', 'protected species', 'regulations', 'fishery management', 'monitoring', 'fishery policies', 'data collection', 'caribbean', '']
+[PRECISION] 0.0
+[RECALL] 0.0
+[F1-SCORE] 0
+
+[RESULTS] dataset/txt/a0276e00.txt
+['gmos', 'fmd fvo gatt', 'gatt gats', 'fvo gatt', 'maturation']
+['livestock', 'animal genetic resources', 'resource conservation', 'biodiversity', 'biosafety', 'legislation', 'standards', 'genetically modified organisms', 'food safety', 'international agreements', 'wto', '']
+[PRECISION] 0.0
+[RECALL] 0.0
+[F1-SCORE] 0
+
+[RESULTS] dataset/txt/a0469e00.txt
+['1 best available', 'information', 'capacity', '3 institutional', 'objective 3 institutional']
+['bioenergy', 'biofuels', 'biogas', 'international cooperation', 'partnerships', 'knowledge management', 'capacity building', 'fao', '']
+[PRECISION] 0.0
+[RECALL] 0.0
+[F1-SCORE] 0
+
+[RESULTS] dataset/txt/a0541e00.txt
+['fp =', '(cropping) aa', 'ironstone', 'ilmenite magnetite', 'lahar loess']
+['soil sciences', 'soil classification', 'soil genesis', 'soil profiles', 'soil chemicophysical properties', 'soil morphological features', 'topography', 'land use', 'vegetation', 'soil texture', 'soil structure', '']
+[PRECISION] 0.0
+[RECALL] 0.0
+[F1-SCORE] 0
+
+[RESULTS] dataset/txt/a0549e00.txt
+['1986-2005 table 40:', 'gender equality table', 'table 43:', 'table 40:', 'rome italy']
+['gender', 'role of women', 'forestry', 'forest management', 'female labour', 'organizations', 'ownership', 'europe', 'north america', '']
+[PRECISION] 0.0
+[RECALL] 0.0
+[F1-SCORE] 0
+
+[RESULTS] dataset/txt/a0587e00.txt
+['identify intended use', 'give market', '-administrative', 'advantage -administrative', '- may give']
+['agricultural products', 'international trade', 'exports', 'imports', 'food safety', 'regulations', 'standards', 'certification', 'quality controls', 'consumer protection', 'organic foods', 'product labelling', 'west africa', 'european union', 'japan', 'usa', '']
+[PRECISION] 0.0
+[RECALL] 0.0
+[F1-SCORE] 0
+
+[RESULTS] dataset/txt/ae080e00.txt
+['12 13', 'central committee flood', 'management central committee', 'disaster management central', 'central committee']
+['local government', 'natural disasters', 'risk management', 'sustainable development', 'living standards', 'rural development', 'flooding', 'cyclones', 'impact assessment', 'emergency relief', 'early warning systems', 'community involvement', 'nongovernmental organizations', 'case studies', 'viet nam', '']
+[PRECISION] 0.0
+[RECALL] 0.0
+[F1-SCORE] 0
+
+[RESULTS] dataset/txt/ae228e00.txt
+['crucial questions', 'implementation are: (i)', 'crucial questions practical', 'practical policy', 'questions practical policy']
+['overweight', 'food consumption', 'nutrient excesses', 'weight reduction', 'price policies', 'fiscal policies', 'prices', 'taxes', 'public health', 'nutrition policies', 'urbanization', 'globalization', 'developing countries', 'developed countries', '']
+[PRECISION] 0.0
+[RECALL] 0.0
+[F1-SCORE] 0
+
+[RESULTS] dataset/txt/ae403e00.txt
+['329 mercedes sur', 'sabanillas 332', '332', 'without bathroom percentage', 'puntarenas puntarenas guanacaste']
+['statistical methods', 'data analysis', 'evaluation', 'time', 'geographical distribution', 'land use', 'carbon', 'deforestation', 'living standards', 'measurement', 'costa rica', '']
+[PRECISION] 0.0
+[RECALL] 0.0
+[F1-SCORE] 0
+
+[RESULTS] dataset/txt/ae937e00.txt
+['indicators grouped', 'technical contents', 'inquiries', 'inquiries technical contents', 'inquiries technical']
+['development indicators', 'economic indicators', 'agricultural development', 'farm inputs', 'farmland', 'agricultural population', 'crops', 'livestock', 'yields', 'trade', 'fisheries', 'forestry', 'human nutrition', 'production data', 'statistical data', 'asia and the pacific', '']
+[PRECISION] 0.0
+[RECALL] 0.0
+[F1-SCORE] 0
+
+[RESULTS] dataset/txt/ag091e00.txt
+['units data systems', 'data systems', 'naca/stream', 'unregulated', 'scheme mfar naca/stream']
+['flooding', 'earthquakes', 'natural disasters', 'damage', 'coastal fisheries', 'aquaculture', 'emergency relief', 'capacity building', 'development plans', 'infrastructure', 'asia', 'india', 'indonesia', 'malaysia', 'maldives', 'myanmar', 'sri lanka', 'thailand', '']
+[PRECISION] 0.0
+[RECALL] 0.0
+[F1-SCORE] 0
+
+[RESULTS] dataset/txt/ag093e00.txt
+['0 7 3', '87 57 19', 'still coffee aroma', '1 1 0', 'clean fairly fragrant']
+['coffea', 'coffee beans', 'robusta coffee', 'coffee', 'quality', 'pulping', 'food processing', 'food industry equipment', 'postharvest technology', 'drying', 'storage', 'postharvest decay', 'moulds', 'aspergillus', 'ochratoxins', 'viet nam', '']
+[PRECISION] 0.0
+[RECALL] 0.0
+[F1-SCORE] 0
+
+[RESULTS] dataset/txt/ag101e00.txt
+['c members:', '/la f', 'glory ("phak', 'kg (1', 'women provides']
+['domestic gardens', 'food security', 'vegetables', 'fruits', 'fish', 'poultry', 'human nutrition', 'nutritional status', 'malnutrition', 'households', 'gardening', 'nutrition education', 'pilot projects', "lao people's democratic republic", '']
+[PRECISION] 0.0
+[RECALL] 0.0
+[F1-SCORE] 0
+
+[RESULTS] dataset/txt/ag102e00.txt
+['meet required quality;', 'educate', 'market', 'high', 'database national standards']
+['fruits', 'vegetables', 'fresh products', 'horticulture', 'fruit growing', 'vegetable growing', 'standards', 'food safety', 'quality', 'marketing channels', 'consumer protection', 'asia', 'india', 'myanmar', 'nepal', 'pakistan', 'philippines', 'thailand', 'viet nam', '']
+[PRECISION] 0.0
+[RECALL] 0.0
+[F1-SCORE] 0
+
+[RESULTS] dataset/txt/ag387e00.txt
+['(kinu)', 'mortor (kinu)', 'l early', 'woodern mortor (kinu)', 'displayed woodern mortor']
+['seed', 'biodiversity', 'exhibitions', 'villages', 'community involvement', 'participation', 'methodology', 'ethnobotany', 'varieties', 'tanzania', '']
+[PRECISION] 0.0
+[RECALL] 0.0
+[F1-SCORE] 0
+
+[RESULTS] dataset/txt/ag868e00.txt
+['resource;', 'box 2988', '902n', '20912', 'management domestication;']
+['wild animals', 'hunting', 'meat', 'endangered species', 'nature conservation', 'protected areas', 'food security', 'trade', 'africa', '']
+[PRECISION] 0.0
+[RECALL] 0.0
+[F1-SCORE] 0
+
+[RESULTS] dataset/txt/alt_livelihood.txt
+['depend seaweed', 'sulawesi indonesia bunaken', 'indonesia bunaken park:', 'indonesia bunaken', 'bunaken park:']
+['seaweed culture', 'artisanal fisheries', 'socioeconomic development', 'overfishing', 'development plans', 'resource management', 'fishery management', 'coastal fisheries', 'socioeconomic organization', 'environmental impact', 'sulawesi', 'indonesia', '']
+[PRECISION] 0.0
+[RECALL] 0.0
+[F1-SCORE] 0
+
+[RESULTS] dataset/txt/at2050web.txt
+['19 76', '2739 3184', '1851 2739 3184', '3184', '-622 -557']
+['agriculture', 'agricultural situation', 'forecasting', 'trends', 'food production', 'agricultural products', 'food consumption', 'malnutrition', 'food crops', 'livestock', 'trade', 'imports', 'exports', 'human population', 'developing countries', 'world', 'statistical data', '']
+[PRECISION] 0.0
+[RECALL] 0.0
+[F1-SCORE] 0
+
+[RESULTS] dataset/txt/birdpre.txt
+['chicken', '945-4128', 'nge', 'istallation', 'list']
+['predatory birds', 'noxious birds', 'bird control', 'aquaculture', 'fishery production', 'control methods', 'fish culture', 'damage', 'fencing', 'electrical installations', 'noise', 'north america', '']
+[PRECISION] 0.0
+[RECALL] 0.0
+[F1-SCORE] 0
+
+[RESULTS] dataset/txt/cleveland02_ecosystems.txt
+['(despite', 'recalcitrant', 'southwestern', 'treatments:', 'steeply']
+['tropical soils', 'phosphorus', 'soil microorganisms', 'growth', 'degradation', 'soil biology', 'ecosystems', 'cycling', 'carbon', 'carbon cycle', 'nutrients', 'plant soil relations', 'soil chemicophysical properties', 'tropical rain forests', 'analytical methods', 'costa rica', '']
+[PRECISION] 0.0
+[RECALL] 0.0
+[F1-SCORE] 0
+
+[RESULTS] dataset/txt/ecology_letters_2004.txt
+['chose arthropods', 'diverse feeding groups', 'shown arthropod communities', 'studies shown arthropod', 'previous common garden']
+['genetic variation', 'plant genetic resources', 'resource conservation', 'salicaceae', 'arthropoda', 'biodiversity', 'plant animal relations', 'animal ecology', 'dominant species', 'species', 'ecosystems', 'interspecific hybridization', 'populus', 'western states (usa)', '']
+[PRECISION] 0.0
+[RECALL] 0.0
+[F1-SCORE] 0
+
+[RESULTS] dataset/txt/hoagland_mre_2003.txt
+['carrying capacity', 'k = carrying', 'k =', 'ke : k', ': k =']
+['aquaculture', 'marine fisheries', 'economic competition', 'impact assessment', 'marine areas', 'carrying capacity', 'fishery resources', 'fishery production', 'fishery management', 'production data', 'prices', 'cost benefit analysis', 'simulation models', '']
+[PRECISION] 0.2
+[RECALL] 0.125
+[F1-SCORE] 0.17857
+
+[RESULTS] dataset/txt/j1255e00.txt
+['agriculture', 'root', '(catfish)', '000', '(53)']
+['cassava', 'feeds', 'plant production', 'livestock', 'animal feeding', 'crops', 'imports', 'exports', 'africa south of sahara', '']
+[PRECISION] 0.0
+[RECALL] 0.0
+[F1-SCORE] 0
+
+[RESULTS] dataset/txt/j6561e00.txt
+['commercial agriculture png', 'ltd', '6 3 10', 'freight building', '3 10']
+['vanilla (spice)', 'vanilla planifolia', 'cultivation', 'production specialization', 'diversification', 'agroindustry', 'prices', 'world markets', 'exports', 'papua new guinea', '']
+[PRECISION] 0.0
+[RECALL] 0.0
+[F1-SCORE] 0
+
+[RESULTS] dataset/txt/x6998e00.txt
+['(wdr 2000) defines', 'world development report', 'world development', 'report', 'development report']
+['towns', 'rural urban relations', 'food production', 'state intervention', 'food policies', 'agricultural policies', 'food supply', 'urbanization', 'urban agriculture', 'agroindustrial sector', 'consumer behaviour', 'consumer education', 'diffusion of information', 'asia', '']
+[PRECISION] 0.0
+[RECALL] 0.0
+[F1-SCORE] 0
+
+[RESULTS] dataset/txt/y5647e00.txt
+['recognition internal emission', 'annex party report', 'granholm programme officer', 'economics; rita neznek', 'neznek']
+['climatic change', 'legislation', 'international agreements', 'greenhouse effect', 'carbon dioxide', 'forest management', 'greenhouse gases', 'pollution control', 'energy management', 'forests', 'forestry policies', 'forest protection', 'reforestation', 'afforestation', '']
+[PRECISION] 0.0
+[RECALL] 0.0
+[F1-SCORE] 0
+
+[RESULTS] dataset/txt/y5843e00.txt
+['crop) participatory', '(for rice crop)', 'gain', 'tocantins', 'single-nucleotide']
+['oryza', 'rice', 'plant genetic resources', 'plant breeding', 'breeding methods', 'plant population', 'genetic variation', 'recurrent selection', 'disease resistance', 'case studies', 'central america', 'south america', 'caribbean', 'latin america', '']
+[PRECISION] 0.0
+[RECALL] 0.0
+[F1-SCORE] 0
+
+[RESULTS] dataset/txt/y6396e00.txt
+['reject; detain;', 'samples initiate analytical', 'detain;', 'collect samples initiate', 'testing;']
+['food inspection', 'foods', 'imports', 'exports', 'certification', 'standards', 'codex alimentarius', 'food legislation', '']
+[PRECISION] 0.0
+[RECALL] 0.0
+[F1-SCORE] 0
+
+[PRECISION MEAN] 0.0066667
