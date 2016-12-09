@@ -197,6 +197,7 @@ def main():
         if debug:
             print '[DEBUG] calculating metrics'
         prec = calc_precision(rw, sw)
+        sum_prec += prec
         recall = calc_recall(rw, sw)
         f1 = calc_f1(prec, recall)
 
