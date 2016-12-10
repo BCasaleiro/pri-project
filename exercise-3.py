@@ -152,7 +152,7 @@ def main():
         fileContentKey = []
         i = 0
         print("and corresponding keyphrases")
-        while i < 1: #len(fileName):
+        while i < len(fileName):
             aux = open(fileName[i]).read()
             fileContent.append(aux)
             keyFilename = fileName[i].replace("txt","key")
@@ -165,7 +165,7 @@ def main():
         fileName = glob.glob('wiki20/documents/*.txt')
         i = 0
         print("and corresponding keyphrases")
-        while i < 1: #len(fileName):
+        while i < len(fileName):
             aux = open(fileName[i]).read()
             fileContent.append(aux)
             keyFilename = fileName[i].replace("documents","teams/team1")
@@ -180,13 +180,13 @@ def main():
 	    expected = []
         i = 0
         print("Tokenize files and remove stopwords")
-        while i < 1: #len(fileContent):
+        while i < len(fileContent):
             aux = []
             aux = tokenizer.tokenize(fileContent[i].lower())
             aux = [w for w in aux if not w in stopset]
             a = 0
             temp = []
-            while(a < 1): #len(aux)):
+            while(a < len(aux)):
                 lst = []
                 lst.append(aux[a])
                 ngrams.append(tuple(lst))
@@ -280,7 +280,7 @@ def main():
         fileContent = []
         fileContentKey = []
         print("and corresponding keyphrases")
-        while i < 1: #len(fileName):
+        while i < len(fileName):
             aux = open(fileName[i]).read()
             fileContent.append(aux)
             keyFilename = fileName[i].replace("txt","key/iic1", 1)
@@ -295,13 +295,13 @@ def main():
         ngrams = []
         features = []
         expected = []
-        while i < 1: #len(fileContent):
+        while i < len(fileContent):
             aux = []
             aux = tokenizer.tokenize(fileContent[i].lower())
             aux = [w for w in aux if not w in stopset]
             a = 0
             temp = []
-            while(a < 2): #len(aux)):
+            while(a < len(aux)):
                 lst = []
                 lst.append(aux[a])
                 ngrams.append(tuple(lst))
