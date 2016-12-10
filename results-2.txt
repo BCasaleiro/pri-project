@@ -1,0 +1,168 @@
+[RESULTS] dataset/txt/a0011e00.txt
+['international', 'safety', 'countries', 'food', 'standards']
+['livestock', 'animal products', 'food chains', 'food safety', 'standards', 'risk analysis', 'phytosanitary measures', 'domestic markets', 'consumers', 'rural population', 'poverty', 'developing countries', '']
+[PRECISION] 0.2
+[RECALL] 0.0769230769231
+[F1-SCORE] 0.151515151515
+
+[RESULTS] dataset/txt/a0126e00.txt
+['management', 'fisheries', 'iuu', 'pic', 'fishing']
+['fisheries', 'fishing rights', 'regulations', 'legislation', 'illegal practices', 'national planning', 'fishery policies', 'fishery resources', 'resource conservation', 'pacific islands', '']
+[PRECISION] 0.2
+[RECALL] 0.0909090909091
+[F1-SCORE] 0.161290322581
+
+[RESULTS] dataset/txt/a0184e00.txt
+['catch', 'fishing', 'stock', 'fishery', 'management']
+['strombus gigas', 'endangered species', 'protected species', 'regulations', 'fishery management', 'monitoring', 'fishery policies', 'data collection', 'caribbean', '']
+[PRECISION] 0.0
+[RECALL] 0.0
+[F1-SCORE] 0
+
+[RESULTS] dataset/txt/a0276e00.txt
+['genetic resources', 'development', 'resources', 'genetic', 'animal']
+['livestock', 'animal genetic resources', 'resource conservation', 'biodiversity', 'biosafety', 'legislation', 'standards', 'genetically modified organisms', 'food safety', 'international agreements', 'wto', '']
+[PRECISION] 0.0
+[RECALL] 0.0
+[F1-SCORE] 0
+
+[RESULTS] dataset/txt/a0469e00.txt
+['information', 'international', 'development', 'energy', 'bioenergy']
+['bioenergy', 'biofuels', 'biogas', 'international cooperation', 'partnerships', 'knowledge management', 'capacity building', 'fao', '']
+[PRECISION] 0.2
+[RECALL] 0.111111111111
+[F1-SCORE] 0.172413793103
+
+[RESULTS] dataset/txt/a0541e00.txt
+['classification', 'surface', 'material', 'horizon', 'soil']
+['soil sciences', 'soil classification', 'soil genesis', 'soil profiles', 'soil chemicophysical properties', 'soil morphological features', 'topography', 'land use', 'vegetation', 'soil texture', 'soil structure', '']
+[PRECISION] 0.0
+[RECALL] 0.0
+[F1-SCORE] 0
+
+[RESULTS] dataset/txt/a0549e00.txt
+['sector', 'gender', 'forest', 'forestry', 'women']
+['gender', 'role of women', 'forestry', 'forest management', 'female labour', 'organizations', 'ownership', 'europe', 'north america', '']
+[PRECISION] 0.4
+[RECALL] 0.2
+[F1-SCORE] 0.333333333333
+
+[RESULTS] dataset/txt/a0587e00.txt
+['producers', 'tel', 'certification', 'products', 'email']
+['agricultural products', 'international trade', 'exports', 'imports', 'food safety', 'regulations', 'standards', 'certification', 'quality controls', 'consumer protection', 'organic foods', 'product labelling', 'west africa', 'european union', 'japan', 'usa', '']
+[PRECISION] 0.2
+[RECALL] 0.0588235294118
+[F1-SCORE] 0.135135135135
+
+[RESULTS] dataset/txt/ae080e00.txt
+['viet', 'flood', 'commune', 'people', 'local']
+['local government', 'natural disasters', 'risk management', 'sustainable development', 'living standards', 'rural development', 'flooding', 'cyclones', 'impact assessment', 'emergency relief', 'early warning systems', 'community involvement', 'nongovernmental organizations', 'case studies', 'viet nam', '']
+[PRECISION] 0.0
+[RECALL] 0.0
+[F1-SCORE] 0
+
+[RESULTS] dataset/txt/ae228e00.txt
+['price', 'tax', 'countries', 'obesity', 'food']
+['overweight', 'food consumption', 'nutrient excesses', 'weight reduction', 'price policies', 'fiscal policies', 'prices', 'taxes', 'public health', 'nutrition policies', 'urbanization', 'globalization', 'developing countries', 'developed countries', '']
+[PRECISION] 0.0
+[RECALL] 0.0
+[F1-SCORE] 0
+
+[RESULTS] dataset/txt/ae403e00.txt
+['level', 'data', 'time', '1973', 'poverty']
+['statistical methods', 'data analysis', 'evaluation', 'time', 'geographical distribution', 'land use', 'carbon', 'deforestation', 'living standards', 'measurement', 'costa rica', '']
+[PRECISION] 0.2
+[RECALL] 0.0833333333333
+[F1-SCORE] 0.15625
+
+[RESULTS] dataset/txt/ae937e00.txt
+['rice', 'production', 'gdp', 'total', 'agricultural']
+['development indicators', 'economic indicators', 'agricultural development', 'farm inputs', 'farmland', 'agricultural population', 'crops', 'livestock', 'yields', 'trade', 'fisheries', 'forestry', 'human nutrition', 'production data', 'statistical data', 'asia and the pacific', '']
+[PRECISION] 0.0
+[RECALL] 0.0
+[F1-SCORE] 0
+
+[RESULTS] dataset/txt/ag091e00.txt
+['communities', 'management', 'tsunami', 'fisheries', 'rehabilitation']
+['flooding', 'earthquakes', 'natural disasters', 'damage', 'coastal fisheries', 'aquaculture', 'emergency relief', 'capacity building', 'development plans', 'infrastructure', 'asia', 'india', 'indonesia', 'malaysia', 'maldives', 'myanmar', 'sri lanka', 'thailand', '']
+[PRECISION] 0.0
+[RECALL] 0.0
+[F1-SCORE] 0
+
+[RESULTS] dataset/txt/ag093e00.txt
+['beans', 'parchment', 'drying', 'cherry', 'coffee']
+['coffea', 'coffee beans', 'robusta coffee', 'coffee', 'quality', 'pulping', 'food processing', 'food industry equipment', 'postharvest technology', 'drying', 'storage', 'postharvest decay', 'moulds', 'aspergillus', 'ochratoxins', 'viet nam', '']
+[PRECISION] 0.4
+[RECALL] 0.117647058824
+[F1-SCORE] 0.27027027027
+
+[RESULTS] dataset/txt/ag101e00.txt
+['households', 'nutrition', 'home', 'food', 'project']
+['domestic gardens', 'food security', 'vegetables', 'fruits', 'fish', 'poultry', 'human nutrition', 'nutritional status', 'malnutrition', 'households', 'gardening', 'nutrition education', 'pilot projects', "lao people's democratic republic", '']
+[PRECISION] 0.2
+[RECALL] 0.0666666666667
+[F1-SCORE] 0.142857142857
+
+[RESULTS] dataset/txt/ag102e00.txt
+['farmers', 'food', 'quality', 'produce', 'safety']
+['fruits', 'vegetables', 'fresh products', 'horticulture', 'fruit growing', 'vegetable growing', 'standards', 'food safety', 'quality', 'marketing channels', 'consumer protection', 'asia', 'india', 'myanmar', 'nepal', 'pakistan', 'philippines', 'thailand', 'viet nam', '']
+[PRECISION] 0.2
+[RECALL] 0.05
+[F1-SCORE] 0.125
+
+[RESULTS] dataset/txt/ag387e00.txt
+['varieties', 'local', 'fairs', 'farmers', 'seed']
+['seed', 'biodiversity', 'exhibitions', 'villages', 'community involvement', 'participation', 'methodology', 'ethnobotany', 'varieties', 'tanzania', '']
+[PRECISION] 0.4
+[RECALL] 0.181818181818
+[F1-SCORE] 0.322580645161
+
+[RESULTS] dataset/txt/ag868e00.txt
+['conference', 'west', 'ghana', 'wildlife', 'bushmeat']
+['wild animals', 'hunting', 'meat', 'endangered species', 'nature conservation', 'protected areas', 'food security', 'trade', 'africa', '']
+[PRECISION] 0.0
+[RECALL] 0.0
+[F1-SCORE] 0
+
+[RESULTS] dataset/txt/alt_livelihood.txt
+['fishers', 'fishing', 'seaweed farming', 'seaweed', 'farming']
+['seaweed culture', 'artisanal fisheries', 'socioeconomic development', 'overfishing', 'development plans', 'resource management', 'fishery management', 'coastal fisheries', 'socioeconomic organization', 'environmental impact', 'sulawesi', 'indonesia', '']
+[PRECISION] 0.0
+[RECALL] 0.0
+[F1-SCORE] 0
+
+
+[RESULTS] dataset/txt/at2050web.txt
+['developing', 'world', 'consumption', 'food', 'countries']
+['agriculture', 'agricultural situation', 'forecasting', 'trends', 'food production', 'agricultural products', 'food consumption', 'malnutrition', 'food crops', 'livestock', 'trade', 'imports', 'exports', 'human population', 'developing countries', 'world', 'statistical data', '']
+[PRECISION] 0.2
+[RECALL] 0.0555555555556
+[F1-SCORE] 0.131578947368
+
+[RESULTS] dataset/txt/birdpre.txt
+['devices', 'bird', 'fax', '800', 'birds']
+['predatory birds', 'noxious birds', 'bird control', 'aquaculture', 'fishery production', 'control methods', 'fish culture', 'damage', 'fencing', 'electrical installations', 'noise', 'north america', '']
+[PRECISION] 0.0
+[RECALL] 0.0
+[F1-SCORE] 0
+
+[RESULTS] dataset/txt/cleveland02_ecosystems.txt
+['carbon', 'co2', 'tropical', 'microbial', 'soil']
+['tropical soils', 'phosphorus', 'soil microorganisms', 'growth', 'degradation', 'soil biology', 'ecosystems', 'cycling', 'carbon', 'carbon cycle', 'nutrients', 'plant soil relations', 'soil chemicophysical properties', 'tropical rain forests', 'analytical methods', 'costa rica', '']
+[PRECISION] 0.2
+[RECALL] 0.0588235294118
+[F1-SCORE] 0.135135135135
+
+[RESULTS] dataset/txt/ecology_letters_2004.txt
+['genetic diversity', 'genetic', 'arthropod', 'species', 'diversity']
+['genetic variation', 'plant genetic resources', 'resource conservation', 'salicaceae', 'arthropoda', 'biodiversity', 'plant animal relations', 'animal ecology', 'dominant species', 'species', 'ecosystems', 'interspecific hybridization', 'populus', 'western states (usa)', '']
+[PRECISION] 0.2
+[RECALL] 0.0666666666667
+[F1-SCORE] 0.142857142857
+
+[RESULTS] dataset/txt/hoagland_mre_2003.txt
+['wild', 'fish', 'fishing', 'fishery', 'aquaculture']
+['aquaculture', 'marine fisheries', 'economic competition', 'impact assessment', 'marine areas', 'carrying capacity', 'fishery resources', 'fishery production', 'fishery management', 'production data', 'prices', 'cost benefit analysis', 'simulation models', '']
+[PRECISION] 0.2
+[RECALL] 0.0714285714286
+[F1-SCORE] 0.147058823529
