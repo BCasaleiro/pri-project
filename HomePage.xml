@@ -1,0 +1,545 @@
+<?xml version="1.0"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:nyt="http://www.nytimes.com/namespaces/rss/2.0" version="2.0">
+  <channel>
+    <title>NYT &gt; Home Page</title>
+    <link>http://www.nytimes.com/pages/index.html?partner=rss&amp;emc=rss</link>
+    <atom:link rel="self" type="application/rss+xml" href="http://www.nytimes.com/services/xml/rss/nyt/HomePage.xml"/>
+    <description/>
+    <language>en-us</language>
+    <copyright>Copyright 2016  The New York Times Company</copyright>
+    <lastBuildDate>Thu, 08 Dec 2016 18:56:16 GMT </lastBuildDate>
+    <image>
+      <title>NYT &gt; Home Page</title>
+      <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
+      <link>http://www.nytimes.com/pages/index.html?partner=rss&amp;emc=rss</link>
+    </image>
+    <item>
+      <title>Trump&#x2019;s Likely Labor Pick, Andrew Puzder, Is Critic of Minimum Wage Increases</title>
+      <link>http://www.nytimes.com/2016/12/08/us/politics/andrew-puzder-labor-secretary-trump.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2016/12/08/us/politics/andrew-puzder-labor-secretary-trump.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2016/12/08/us/politics/andrew-puzder-labor-secretary-trump.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2016/12/09/us/09puzder/09puzder-moth-v3.jpg" medium="image" height="151" width="151"/>
+      <media:description>Andrew F. Puzder at Trump Tower in Manhattan on Wednesday.</media:description>
+      <media:credit>Andrew Harnik/Associated Press</media:credit>
+      <description>Mr. Puzder, chief executive of the company behind Hardee&#x2019;s and Carl&#x2019;s Jr., also strongly supports repealing the Affordable Care Act.</description>
+      <dc:creator>NOAM SCHEIBER and MAGGIE HABERMAN</dc:creator>
+      <pubDate>Thu, 08 Dec 2016 16:39:53 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Andy Puzder</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Labor Department (US)</category>
+    </item>
+    <item>
+      <title>Worried Auto Industry Braces for Change Under Trump</title>
+      <link>http://www.nytimes.com/2016/12/08/business/worried-auto-industry-braces-for-change-under-trump.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2016/12/08/business/worried-auto-industry-braces-for-change-under-trump.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2016/12/08/business/worried-auto-industry-braces-for-change-under-trump.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2016/11/26/business/00TRUMPAUTOS/00TRUMPAUTOS-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Robots make welds on metal frames for the Ford Escape sport utility vehicle at an assembly plant in Louisville, Ky. Ford said it would keep production of a Lincoln S.U.V. in the United States. President-elect Donald J. Trump has criticized the company for its investments in Mexico.</media:description>
+      <media:credit>Luke Sharrett/Bloomberg</media:credit>
+      <description>Tariffs on imported vehicles and parts and fewer subsidies for electric cars are among the possible changes that concern domestic automakers.</description>
+      <dc:creator>BILL VLASIC</dc:creator>
+      <pubDate>Thu, 08 Dec 2016 15:55:40 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Automobiles</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Factories and Manufacturing</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Trade and World Market</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Customs (Tariff)</category>
+    </item>
+    <item>
+      <title>Donald Trump Is Said to Intend to Keep a Stake in His Business</title>
+      <link>http://www.nytimes.com/2016/12/07/us/politics/trump-organization-ivanka-trump.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2016/12/07/us/politics/trump-organization-ivanka-trump.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2016/12/07/us/politics/trump-organization-ivanka-trump.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2016/12/08/us/08divest-top/08divest-top-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>President-elect Donald J. Trump at Trump Tower on Tuesday.</media:description>
+      <media:credit>Hilary Swift for The New York Times</media:credit>
+      <description>The president-elect is said to be considering turning over his company to his two adult sons, but planning to resist calls to divest.</description>
+      <dc:creator>MAGGIE HABERMAN and JO BECKER</dc:creator>
+      <pubDate>Thu, 08 Dec 2016 01:16:52 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Conflicts of Interest</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Trump Organization</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Ivanka</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Eric F (1984- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J Jr</category>
+    </item>
+    <item>
+      <title>The Comet Ping Pong Gunman Answers Our Reporter&#x2019;s Questions</title>
+      <link>http://www.nytimes.com/2016/12/07/us/edgar-welch-comet-pizza-fake-news.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2016/12/07/us/edgar-welch-comet-pizza-fake-news.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2016/12/07/us/edgar-welch-comet-pizza-fake-news.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2016/12/08/us/08qanda/08qanda-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Edgar M. Welch surrendered to the police in Washington on Sunday.</media:description>
+      <media:credit>Sathi Soma, via Associated Press</media:credit>
+      <description>A soft-spoken Edgar M. Welch described from jail his thoughts leading up to his decision to fire a military-style assault rifle inside the pizzeria.</description>
+      <dc:creator>ADAM GOLDMAN</dc:creator>
+      <pubDate>Wed, 07 Dec 2016 22:46:19 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Comet Ping Pong (Washington, DC, Restaurant)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Welch, Edgar Maddison</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Washington (DC)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">News and News Media</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Rumors and Misinformation</category>
+    </item>
+    <item>
+      <title>California Today: California Today: Booksellers See a Threat in New Law</title>
+      <link>http://www.nytimes.com/2016/12/08/us/california-today-booksellers-see-a-threat-in-new-law.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2016/12/08/us/california-today-booksellers-see-a-threat-in-new-law.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2016/12/08/us/california-today-booksellers-see-a-threat-in-new-law.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2016/12/08/us/08california-today-b/08california-today-b-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>City Lights Bookstore in San Francisco. Some booksellers are worried about new legislation intended to curb fake collectibles.</media:description>
+      <media:credit>Kevin Miyazaki for The New York Times</media:credit>
+      <description>Thursday: A complication for autographed book sales, the next class of California political leaders, and a huge sigh of relief after surgery for conjoined twins.</description>
+      <dc:creator>MIKE McPHATE</dc:creator>
+      <pubDate>Thu, 08 Dec 2016 12:50:52 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_keyword">California Today</category>
+    </item>
+    <item>
+      <title>As Fake News Spreads Lies, More Readers Shrug at the Truth</title>
+      <link>http://www.nytimes.com/2016/12/06/us/fake-news-partisan-republican-democrat.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2016/12/06/us/fake-news-partisan-republican-democrat.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2016/12/06/us/fake-news-partisan-republican-democrat.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2016/12/07/us/07fake-1/07fake-1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Larry Laughlin, a retired business owner from Minnesota, said he felt alienated from conventional news media.</media:description>
+      <media:credit>Tim Gruber for The New York Times</media:credit>
+      <description>Fake news has become a partisan tool, but people differ widely on their ability to discern what is real and what is fabrication.</description>
+      <dc:creator>SABRINA TAVERNISE</dc:creator>
+      <pubDate>Wed, 07 Dec 2016 01:56:48 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">News and News Media</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Rumors and Misinformation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Presidential Election of 2016</category>
+    </item>
+    <item>
+      <title>Grandiose Ideas for Donald Trump Inaugural Give Way to Traditional</title>
+      <link>http://www.nytimes.com/2016/12/07/us/politics/trump-inauguration.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2016/12/07/us/politics/trump-inauguration.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2016/12/07/us/politics/trump-inauguration.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2016/12/08/us/08inaugural/08inaugural-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Construction on the presidential reviewing stand, where President-elect Donald J. Trump will view the inaugural parade, on Pennsylvania Avenue in Washington.</media:description>
+      <media:credit>Alex Brandon/Associated Press</media:credit>
+      <description>A parade up Fifth Avenue? A helicopter ride to Washington from New York? Both are dismissed as unrealistic, especially given security concerns.</description>
+      <dc:creator>MAGGIE HABERMAN and NICHOLAS FANDOS</dc:creator>
+      <pubDate>Thu, 08 Dec 2016 00:38:58 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Inaugurations</category>
+    </item>
+    <item>
+      <title>Transition Briefing: Labor secretary pick may rekindle Trump&#x2019;s women problem. And Chris Christie won&#x2019;t head Republican Party.</title>
+      <link>http://www.nytimes.com/2016/12/08/us/politics/trump-picks-twitter-fight-with-union-local-chief-in-indiana.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2016/12/08/us/politics/trump-picks-twitter-fight-with-union-local-chief-in-indiana.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2016/12/08/us/politics/trump-picks-twitter-fight-with-union-local-chief-in-indiana.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2016/12/08/us/08transitionbriefing1/08transitionbriefing1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>President-elect Donald J. Trump toured the Carrier plant in Indianapolis last week.</media:description>
+      <media:credit>Doug Mills/The New York Times</media:credit>
+      <description>The president-elect&#x2019;s attitude toward women has been a problematic political issue for a long time. With the tapping of fast-food executive Andrew F. Puzder, look for more questions to emerge.</description>
+      <dc:creator>MAGGIE HABERMAN</dc:creator>
+      <pubDate>Thu, 08 Dec 2016 17:21:59 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">United Steelworkers of America</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Carrier Corp</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Jones, Chuck (Union Leader)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Layoffs and Job Reductions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Presidential Election of 2016</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Pruitt, Scott</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">DiCaprio, Leonardo</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Environmental Protection Agency</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Graham, Lindsey</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cyberattacks and Hackers</category>
+    </item>
+    <item>
+      <title>South Korea&#x2019;s President Awaits Her Fate, Dejected, Sleepless and Alone</title>
+      <link>http://www.nytimes.com/2016/12/08/world/asia/south-korea-park-geun-hye.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2016/12/08/world/asia/south-korea-park-geun-hye.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2016/12/08/world/asia/south-korea-park-geun-hye.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2016/12/09/world/09KOREA-2/09KOREA-2-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>About 1.7 million people protested in central Seoul on Saturday, calling for Ms. Park to step down.</media:description>
+      <media:credit>Kim Hong-Ji/Reuters</media:credit>
+      <description>As her presidency crumbles, Park Geun-hye has been cloistered in the presidential palace and is rarely seen in public.</description>
+      <dc:creator>CHOE SANG-HUN</dc:creator>
+      <pubDate>Thu, 08 Dec 2016 10:53:55 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Park Geun-hye</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">South Korea</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Extortion and Blackmail</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Choi Soon-sil</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Demonstrations, Protests and Riots</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Impeachment</category>
+    </item>
+    <item>
+      <title>Claims Against South Korean President: Extortion, Abuse of Power and Bribery</title>
+      <link>http://www.nytimes.com/2016/12/08/world/asia/south-korea-park-geun-hye-accusations-impeachment.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2016/12/08/world/asia/south-korea-park-geun-hye-accusations-impeachment.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2016/12/08/world/asia/south-korea-park-geun-hye-accusations-impeachment.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2016/12/09/world/09CHARGES-1/09CHARGES-1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>A protest in Seoul, South Korea, on Saturday calling for President Park Geun-hye to step down.</media:description>
+      <media:credit>Kim Hong-Ji/Reuters</media:credit>
+      <description>Ahead of Friday&#x2019;s impeachment vote, here are the accusations against President Park Geun-hye, which she has dismissed as a &#x201C;house of cards.&#x201D;</description>
+      <dc:creator>CHOE SANG-HUN</dc:creator>
+      <pubDate>Thu, 08 Dec 2016 10:59:40 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Choi Soon-sil</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Park Geun-hye</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">South Korea</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Extortion and Blackmail</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Impeachment</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Bribery and Kickbacks</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Classified Information and State Secrets</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Ethics and Official Misconduct</category>
+    </item>
+    <item>
+      <title>Defiance and Disillusionment in Heartland of South Korean President&#x2019;s Support</title>
+      <link>http://www.nytimes.com/2016/12/08/world/asia/south-korea-president-park-geun-hye-scandal-impeachment.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2016/12/08/world/asia/south-korea-president-park-geun-hye-scandal-impeachment.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2016/12/08/world/asia/south-korea-president-park-geun-hye-scandal-impeachment.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2016/12/09/world/09GENERATIONS-1/09GENERATIONS-1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>In what appeared to be a last-ditch effort to court her remaining supporters, President Park Geun-hye visited Daegu, South Korea, last week, making a rare public appearance after a fire destroyed part of a market.</media:description>
+      <media:credit>Kim Jun-bum/Yonhap, via Associated Press</media:credit>
+      <description>Unlike the vast majority of South Koreans, some in Daegu, a city where President Park Geun-hye has deep political roots, see her as an innocent victim of a scandal.</description>
+      <dc:creator>MOTOKO RICH</dc:creator>
+      <pubDate>Thu, 08 Dec 2016 10:57:33 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">South Korea</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Park Geun-hye</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Daegu (South Korea)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Impeachment</category>
+    </item>
+    <item>
+      <title>59 Rescues in 2016; Witness the Last</title>
+      <link>http://www.nytimes.com/video/world/europe/100000004789220/59-rescues-in-2016-witness-the-last.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/video/world/europe/100000004789220/59-rescues-in-2016-witness-the-last.html</guid>
+      <description>Aboard the Bourbon Argos on its final rescue mission of the year with members of Doctors Without Borders, aiding African migrants in the Mediterranean Sea.</description>
+      <dc:creator/>
+      <pubDate>Thu, 08 Dec 2016 10:00:34 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/des">Middle East and Africa Migrant Crisis</category>
+      <category domain="http://www.nytimes.com/namespaces/nyt_org_all">Doctors Without Borders</category>
+      <category domain="http://www.nytimes.com/namespaces/nyt_geo">Mediterranean Sea</category>
+    </item>
+    <item>
+      <title>Your Daily Mini Crossword</title>
+      <link>http://www.nytimes.com/crosswords/game/mini?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/crosswords/game/mini</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/crosswords/game/mini?partner=rss&amp;emc=rss"/>
+      <description>Solve a bite-size crossword in just a few minutes.</description>
+      <dc:creator/>
+      <pubDate>Thu, 25 Feb 2016 08:18:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>Great Performers | Don Cheadle</title>
+      <link>http://www.nytimes.com/video/magazine/100000004794066/great-performers-don-cheadle.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/video/magazine/100000004794066/great-performers-don-cheadle.html</guid>
+      <description>Step into the world of "L.A. Noir" through a series of nine groundbreaking virtual-reality films starring the year&#x2019;s best actors &#x2014; and you, the viewer.</description>
+      <dc:creator/>
+      <pubDate>Tue, 29 Nov 2016 22:42:16 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/des">Movies</category>
+      <category domain="http://www.nytimes.com/namespaces/nyt_per">Cheadle, Don</category>
+      <category domain="http://www.nytimes.com/namespaces/des">Virtual Reality (Computers)</category>
+    </item>
+    <item>
+      <title>Pursuits: Ann Patchett&#x2019;s Guide for Bookstore Lovers</title>
+      <link>http://www.nytimes.com/2016/12/06/travel/an-international-bookstore-guide.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2016/12/06/travel/an-international-bookstore-guide.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2016/12/06/travel/an-international-bookstore-guide.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2016/12/11/travel/11PURSUITS1/11PURSUITS1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Ann Patchett at her bookstore, Parnassus Books, in Nashville, with one of her shop dogs.</media:description>
+      <media:credit>Heidi Ross</media:credit>
+      <description>If bookstores are a must on your travel itinerary, Ann Patchett has a road map for you.</description>
+      <dc:creator>ANN PATCHETT</dc:creator>
+      <pubDate>Tue, 06 Dec 2016 11:00:03 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Travel and Vacations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Books and Literature</category>
+    </item>
+    <item>
+      <title>Can You Get Too Much Protein?</title>
+      <link>http://www.nytimes.com/2016/12/06/well/eat/can-you-get-too-much-protein.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2016/12/06/well/eat/can-you-get-too-much-protein.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2016/12/06/well/eat/can-you-get-too-much-protein.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2016/12/06/science/06PROTEINsub/06PROTEINsub-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description/>
+      <media:credit>iStock</media:credit>
+      <description>While some nutritionists have encouraged the protein craze, a number of experts are urging caution.</description>
+      <dc:creator>RONI CARYN RABIN</dc:creator>
+      <pubDate>Tue, 06 Dec 2016 07:00:22 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Diet and Nutrition</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Proteins</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Dietary Supplements and Herbal Remedies</category>
+    </item>
+    <item>
+      <title>The Oakland Fire: Delving Into What Happened, and Why</title>
+      <link>http://www.nytimes.com/2016/12/08/us/the-oakland-fire-delving-into-what-happened-and-why.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2016/12/08/us/the-oakland-fire-delving-into-what-happened-and-why.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2016/12/08/us/the-oakland-fire-delving-into-what-happened-and-why.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2016/12/08/us/08OAKLANDPROJECT-1/08OAKLANDPROJECT-1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>A sidewalk memorial to the victims of the warehouse fire last week in Oakland, Calif.</media:description>
+      <media:credit>Jim Wilson/The New York Times</media:credit>
+      <description>The Times is doing something new: Our reporters who are investigating the devastating blaze will be providing regular updates on their findings. And we&#x2019;re asking readers for help.</description>
+      <dc:creator>THE NEW YORK TIMES</dc:creator>
+      <pubDate>Thu, 08 Dec 2016 10:00:26 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fires and Firefighters</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Oakland (Calif)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Alameda County (Calif)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Schaaf, Libby (1965- )</category>
+    </item>
+    <item>
+      <title>Oakland Fire Victims Included Performers and Educators</title>
+      <link>http://www.nytimes.com/2016/12/05/us/oakland-fire-victims.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2016/12/05/us/oakland-fire-victims.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2016/12/05/us/oakland-fire-victims.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2016/12/06/us/06xp-victims/06xp-victims-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>A memorial near the site of the fire in Oakland, Calif.</media:description>
+      <media:credit>Jim Wilson/The New York Times</media:credit>
+      <description>As the coroner began releasing the victims&#x2019; names, friends and family members remembered their loved ones as &#x201C;honorable&#x201D; and &#x201C;ferociously brilliant.&#x201D;</description>
+      <dc:creator>CHRISTINE HAUSER and NIRAJ CHOKSHI</dc:creator>
+      <pubDate>Thu, 08 Dec 2016 14:59:23 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Oakland (Calif)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">California</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Fires and Firefighters</category>
+    </item>
+    <item>
+      <title>On Campus, Trump Fans Say They Need &#x2018;Safe Spaces&#x2019;</title>
+      <link>http://www.nytimes.com/2016/12/08/us/politics/political-divide-on-campuses-hardens-after-trumps-victory.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2016/12/08/us/politics/political-divide-on-campuses-hardens-after-trumps-victory.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2016/12/08/us/politics/political-divide-on-campuses-hardens-after-trumps-victory.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2016/12/06/us/00campus-2/00campus-2-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Amanda Delekta, 20, the political director for the College Republicans at the University of Michigan, in her bedroom near campus in Ann Arbor, Mich., last week.</media:description>
+      <media:credit>Brittany Greeson for The New York Times</media:credit>
+      <description>Republican students feel estranged from colleges where the institutional bias leans left, and university officials fear tensions will increase after the inauguration.</description>
+      <dc:creator>ANEMONA HARTOCOLLIS</dc:creator>
+      <pubDate>Thu, 08 Dec 2016 10:00:26 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Colleges and Universities</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">University of Michigan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Presidential Election of 2016</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Republican Party</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Amherst College</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Virginia Polytechnic Institute and State University</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Columbia University</category>
+    </item>
+    <item>
+      <title>Cuba&#x2019;s Surge in Tourism Keeps Food Off Residents&#x2019; Plates</title>
+      <link>http://www.nytimes.com/2016/12/08/world/americas/cuba-fidel-castro-food-tourism.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2016/12/08/world/americas/cuba-fidel-castro-food-tourism.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2016/12/08/world/americas/cuba-fidel-castro-food-tourism.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2016/12/04/world/04CUBA1/04CUBA1-moth-v2.jpg" medium="image" height="151" width="151"/>
+      <media:description>Workers in a lettuce field this past week at a farm in Alamar, outside Havana.</media:description>
+      <media:credit>Mauricio Lima for The New York Times</media:credit>
+      <description>Consumption by visitors &#x2014; nearly 3.5 million last year &#x2014; is overwhelming supplies and raising prices, forcing families to make do with even less than usual.</description>
+      <dc:creator>AZAM AHMED</dc:creator>
+      <pubDate>Thu, 08 Dec 2016 10:00:26 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Agriculture and Farming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">University of California, San Diego</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">University of Havana</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Castro, Fidel</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Castro, Raul</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Cuba</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Havana (Cuba)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Black Markets</category>
+    </item>
+    <item>
+      <title>The Best Albums of 2016</title>
+      <link>http://www.nytimes.com/2016/12/07/arts/music/best-albums.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2016/12/07/arts/music/best-albums.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2016/12/07/arts/music/best-albums.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2016/12/11/arts/11POPYEARSBEST-GRID/11POPYEARSBEST-GRID-moth-v2.jpg" medium="image" height="151" width="151"/>
+      <media:description>Clockwise from top left: Beyonc&#xE9;, David Bowie, Anohni, Mary Halvorson, Andrew Cyrille and Chance the Rapper.</media:description>
+      <media:credit>Clockwise from top left: Andrew Harnik/Associated Press; Andrew H. Walker/Getty Images; Ryan Pfluger for The New York Times; Jacob Blickenstaff for The New York Times; Laurel Golio for The New York Times; Michael Zorn/Invision, via Associated Press </media:credit>
+      <description>Beyonc&#xE9; and Bowie, Chance the Rapper and Radiohead, Frank Ocean and Leonard Cohen &#x2014; and much, much more.</description>
+      <dc:creator>JON PARELES, JON CARAMANICA and NATE CHINEN</dc:creator>
+      <pubDate>Thu, 08 Dec 2016 17:14:11 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Music</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Rap and Hip-Hop</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Pop and Rock Music</category>
+    </item>
+    <item>
+      <title>The Best Songs of 2016</title>
+      <link>http://www.nytimes.com/2016/12/07/arts/music/best-songs.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2016/12/07/arts/music/best-songs.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2016/12/07/arts/music/best-songs.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2016/12/11/arts/11PARELES1/11PARELES1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Beyonc&#xE9;&#x2019;s &#x201C;Lemonade,&#x201D; an ambitious album and film, tackled issues of race and infidelity, and its release became the kind of all-consuming cultural phenomenon that perhaps no artist but Beyonc&#xE9; could muster.</media:description>
+      <media:credit>Doug Mills/The New York Times</media:credit>
+      <description>The music critics of The New York Times share their picks for the best songs of the year.</description>
+      <dc:creator>JON PARELES, JON CARAMANICA and NATE CHINEN</dc:creator>
+      <pubDate>Wed, 07 Dec 2016 16:41:19 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Pop and Rock Music</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Rap and Hip-Hop</category>
+    </item>
+    <item>
+      <title>Hundreds of U.K. Police Officers Said to Have Sexually Abused Vulnerable People</title>
+      <link>http://www.nytimes.com/2016/12/08/world/europe/uk-police-sexual-abuse.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2016/12/08/world/europe/uk-police-sexual-abuse.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2016/12/08/world/europe/uk-police-sexual-abuse.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2016/12/09/world/09Abuse/09Abuse-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Officers in London. A report found that there had been 436 accusations of police sexual abuse in England and Wales over the two years ending in March.</media:description>
+      <media:credit>Ben Stansall/Agence France-Presse &#x2014; Getty Images</media:credit>
+      <description>A report by a national watchdog found that domestic abuse victims, drug and alcohol addicts and people who work in the sex industry had been targeted.</description>
+      <dc:creator>DAN BILEFSKY</dc:creator>
+      <pubDate>Thu, 08 Dec 2016 14:57:33 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Police</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Sex Crimes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">England</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Wales</category>
+    </item>
+    <item>
+      <title>Guitarist/singer Greg Lake of Emerson, Lake and Palmer Dies</title>
+      <link>http://www.nytimes.com/aponline/2016/12/08/world/europe/ap-eu-britain-obit-greg-lake.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/aponline/2016/12/08/world/europe/ap-eu-britain-obit-greg-lake.html</guid>
+      <description>Musician Greg Lake co-founded both King Crimson and Emerson, Lake and Palmer &#x2014; bands that helped define the sprawling, influential but often-maligned genre known as progressive rock.</description>
+      <dc:creator>THE ASSOCIATED PRESS</dc:creator>
+      <pubDate>Thu, 08 Dec 2016 14:28:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>Heart-Rending Testimony as Dylann Roof Trial Opens</title>
+      <link>http://www.nytimes.com/2016/12/07/us/dylann-roof-trial.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2016/12/07/us/dylann-roof-trial.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2016/12/07/us/dylann-roof-trial.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2016/12/08/us/08roof/24roof1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Dylann S. Roof at a court hearing in Charleston, S.C., in July 2015.</media:description>
+      <media:credit>Pool photo by Grace Beahm</media:credit>
+      <description>Mr. Roof, 22, is accused of killing nine people at Emanuel African Methodist Episcopal Church in Charleston, S.C. He faces the death penalty.</description>
+      <dc:creator>KEVIN SACK and ALAN BLINDER</dc:creator>
+      <pubDate>Thu, 08 Dec 2016 02:04:06 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Charleston, SC, Shooting (2015)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Murders, Attempted Murders and Homicides</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Roof, Dylann Storm</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Hate Crimes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Blacks</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Sanders, Felicia</category>
+    </item>
+    <item>
+      <title>Burst Radiator Blamed for Deaths of 2 Sisters in the Bronx</title>
+      <link>http://www.nytimes.com/2016/12/07/nyregion/2-young-girls-fatally-burned-by-radiator-steam-in-the-bronx-police-say.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2016/12/07/nyregion/2-young-girls-fatally-burned-by-radiator-steam-in-the-bronx-police-say.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2016/12/07/nyregion/2-young-girls-fatally-burned-by-radiator-steam-in-the-bronx-police-say.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2016/12/09/nyregion/08TODDLERS/08TODDLERS-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Ibanez Ambrose, 2, top, and Scylee Vayoh Ambrose, 1, who died from severe burns on Wednesday apparently after a steam radiator malfunctioned in their apartment in the Bronx.</media:description>
+      <media:credit/>
+      <description>Ibanez Ambrose, 2, and Scylee Vayoh Ambrose, 1, died in temporary housing for the homeless after being severely burned, the authorities said.</description>
+      <dc:creator>RICK ROJAS and NIKITA STEWART</dc:creator>
+      <pubDate>Thu, 08 Dec 2016 01:22:22 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Radiators</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Hunts Point (Bronx, NY)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Explosions (Accidental)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Homeless Persons</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Ambrose, Ibanez (d 2016)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Ambrose, Scylee Vayoh (d 2016)</category>
+    </item>
+    <item>
+      <title>Donald Trump Is Time&#x2019;s Person of the Year, to No One&#x2019;s Surprise</title>
+      <link>http://www.nytimes.com/2016/12/07/business/media/donald-trump-time-person-of-the-year.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2016/12/07/business/media/donald-trump-time-person-of-the-year.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2016/12/07/business/media/donald-trump-time-person-of-the-year.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2016/12/08/business/media/08xp-timeperson2/08xp-timeperson2-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>During a news conference at a Manhattan hotel in July, Donald J. Trump announced that Gov. Mike Pence of Indiana would be his running mate.</media:description>
+      <media:credit>Doug Mills/The New York Times</media:credit>
+      <description>The magazine called Mr. Trump the &#x201C;president of the divided states of America&#x201D; and named Hillary Clinton its runner-up.</description>
+      <dc:creator>ERIN McCANN</dc:creator>
+      <pubDate>Wed, 07 Dec 2016 14:09:46 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Time (Magazine)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Presidential Election of 2016</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Magazines</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+    </item>
+    <item>
+      <title>What in the World: Who Haunts U.K. Ghost Trains? Railway Enthusiasts</title>
+      <link>http://www.nytimes.com/2016/12/07/world/what-in-the-world/uk-ghost-trains.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2016/12/07/world/what-in-the-world/uk-ghost-trains.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2016/12/07/world/what-in-the-world/uk-ghost-trains.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2016/11/29/world/what-in-the-world/00wit_britain-ghost-train/00wit_britain-ghost-train-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Why do &#x201C;ghost trains&#x201D; operate? Believe it or not, it&#x2019;s a money-saving strategy for railroad companies in Britain.</media:description>
+      <media:credit>Illustration by Lena Bush; Photo by Antonio Mingot</media:credit>
+      <description>The trains, bureaucratic curiosities that run infrequently and visit forgotten stations, are a draw for railroad fans, who try to ride as many as possible.</description>
+      <dc:creator>DES SHOE</dc:creator>
+      <pubDate>Wed, 07 Dec 2016 14:03:03 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Railroads</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Airports</category>
+    </item>
+    <item>
+      <title>Peter Vaughan, Maester Aemon in &#x2018;Game of Thrones,&#x2019; Dies at 93</title>
+      <link>http://www.nytimes.com/2016/12/06/arts/television/peter-vaughan-maester-aemon-in-game-of-thrones-dies-at-93.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2016/12/06/arts/television/peter-vaughan-maester-aemon-in-game-of-thrones-dies-at-93.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2016/12/06/arts/television/peter-vaughan-maester-aemon-in-game-of-thrones-dies-at-93.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2016/12/07/arts/07vaughan-obit/07vaughan-obit-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Peter Vaughan, left, with John Bradley in &#x201C;Game of Thrones.&#x201D;</media:description>
+      <media:credit>HBO, via Photofest</media:credit>
+      <description>Mr. Vaughan had an acting career in films and British television for more than 50 years before his turn as the blind mentor to Jon Snow in the HBO series.</description>
+      <dc:creator>DANIEL E. SLOTNIK</dc:creator>
+      <pubDate>Wed, 07 Dec 2016 03:06:24 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Vaughan, Peter (1923-2016)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Obituaries)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Television</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Game of Thrones (TV Program)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Actors and Actresses</category>
+    </item>
+    <item>
+      <title>Dating With a Disability</title>
+      <link>http://www.nytimes.com/2016/12/08/well/family/dating-with-a-disability.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2016/12/08/well/family/dating-with-a-disability.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2016/12/08/well/family/dating-with-a-disability.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2016/10/20/well/Dating-TabithaEstrellado2-copy/Dating-TabithaEstrellado2-copy-moth-v3.jpg" medium="image" height="151" width="151"/>
+      <media:description>Tabitha Estrellado maneuvers her wheelchair to greet friends at Blackthorn 51, a rock club in Queens, N.Y.</media:description>
+      <media:credit>Wendy Lu</media:credit>
+      <description>Women with disabilities often begin to date much later in life, and they struggle in a dating culture that places a premium on physical appearance.</description>
+      <dc:creator>WENDY LU</dc:creator>
+      <pubDate>Thu, 08 Dec 2016 12:00:02 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Disabilities</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Dating and Relationships</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Women and Girls</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Abuse of the Disabled</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Social Conditions and Trends</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Online Dating</category>
+    </item>
+    <item>
+      <title>Anna Kendrick: The First Time I Made a Movie (at 16)</title>
+      <link>http://www.nytimes.com/2016/12/08/movies/anna-kendrick-the-first-time-i-made-a-movie-at-16.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2016/12/08/movies/anna-kendrick-the-first-time-i-made-a-movie-at-16.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2016/12/08/movies/anna-kendrick-the-first-time-i-made-a-movie-at-16.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2016/12/11/arts/11FIRSTTIME-KENDRICK/11FIRSTTIME-KENDRICK-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Anna Kendrick is the author of the memoir &#x201C;Scrappy Little Nobody&#x201D; (Touchstone/Simon &amp; Schuster). This is an edited excerpt from the book.</media:description>
+      <media:credit>Photographs by Pamela Littky</media:credit>
+      <description>When Ms. Kendrick, a former child actress on New York stages, was cast in the film &#x201C;Camp,&#x201D; it proved eye-opening about the craft and the industry.</description>
+      <dc:creator>ANNA KENDRICK</dc:creator>
+      <pubDate>Thu, 08 Dec 2016 15:00:13 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Movies</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Actors and Actresses</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Camp (Movie)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Stagedoor Manor</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Graff, Todd</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Mitchell, Jerry (1960- )</category>
+    </item>
+    <item>
+      <title>Still Processing: &#x2018;Big Social&#x2019; and Facebook&#x2019;s Moral Core</title>
+      <link>http://www.nytimes.com/2016/12/08/podcasts/big-social-and-facebooks-moral-core.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2016/12/08/podcasts/big-social-and-facebooks-moral-core.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2016/12/08/podcasts/big-social-and-facebooks-moral-core.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2016/12/08/arts/08PROCESSING/08PROCESSING-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description/>
+      <media:credit>Esteban Felix/Associated Press</media:credit>
+      <description>Mike Isaac, a New York Times technology reporter, joins to talk about Facebook&#x2019;s decision to comply with Chinese censorship regulations.</description>
+      <dc:creator>WESLEY MORRIS and JENNA WORTHAM</dc:creator>
+      <pubDate>Thu, 08 Dec 2016 11:54:36 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Podcasts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Grammy Awards</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Facebook Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Adele (Singer)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Knowles, Beyonce</category>
+    </item>
+    <item>
+      <title>The Neediest Cases: In Debt, but Undaunted</title>
+      <link>http://www.nytimes.com/2016/12/08/nyregion/neediest-cases-fund-queens-shelter.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2016/12/08/nyregion/neediest-cases-fund-queens-shelter.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2016/12/08/nyregion/neediest-cases-fund-queens-shelter.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2016/11/28/nyregion/00neediestbell/00neediestbell-moth-v2.jpg" medium="image" height="151" width="151"/>
+      <media:description>Natasha Bell with her daughters Aziya McEachron, 10, left, and Anyla McEachron, 7, at their home.</media:description>
+      <media:credit>Emon Hassan for The New York Times</media:credit>
+      <description>Natasha Bell has worked many jobs, trying to piece together financial security for her family. After living in a shelter, she now has a home, but still has debts to pay.</description>
+      <dc:creator>JOHN OTIS</dc:creator>
+      <pubDate>Thu, 08 Dec 2016 16:00:15 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">New York Times Neediest Cases Fund</category>
+    </item>
+  </channel>
+</rss>
